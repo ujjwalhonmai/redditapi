@@ -1,0 +1,15 @@
+{
+  "name": "reddit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://ujjwalhonmai.github.io/redditapi",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
